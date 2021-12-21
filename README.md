@@ -5,7 +5,6 @@
 ● Becoming a future YouTuber!
 ● Progressing my knowledge!
 
-<br/>
 
 ### Utilities and Languages:
 
