@@ -11,9 +11,12 @@
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="mongodb" width="26px" src="https://imgur.com/xN5cFRr.png" />
 
+***
 
 ## [Discord Server](https://discord.gg/ECkMBXWAJj)
 <a href="https://discord.gg/ECkMBXWAJj"><img src="https://discord.com/api/guilds/922254410346807298/widget.png?style=banner2"></a>
+
+***
 
 
 
