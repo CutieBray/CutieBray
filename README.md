@@ -1,13 +1,11 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q4758ZJ)
 
-***
 
 ● Javascript!
 ● Becoming a future YouTuber!
 ● Progressing my knowledge!
 
-***
-
+<br/>
 
 ### Utilities and Languages:
 
